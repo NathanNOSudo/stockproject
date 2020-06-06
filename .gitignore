@@ -118,6 +118,7 @@ dist
 # vscode config
 .vscode
 
+_pgbackup
 .firebaserc
 
 .DS_Store
